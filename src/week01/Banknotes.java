@@ -14,5 +14,7 @@ public class Banknotes {
             System.out.println(quantity + " nota(s) de R$ " + banknote + ",00");
             amount %= banknote;
         }
+
+        sc.close();
     }
 }
