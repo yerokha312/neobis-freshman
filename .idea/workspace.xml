@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2ca60c1-38a1-47eb-94e5-247699a37e8e" name="Changes" comment="completed first task">
-      <change afterPath="$PROJECT_DIR$/src/week01/BankNotesAndCoins.java" afterDir="false" />
+    <list default="true" id="a2ca60c1-38a1-47eb-94e5-247699a37e8e" name="Changes" comment="completed the second task">
+      <change afterPath="$PROJECT_DIR$/src/week01/TriangleTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week01/Banknotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week01/Banknotes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
   "keyToString": {
     "Application.BankNotesAndCoins.executor": "Run",
     "Application.Banknotes.executor": "Run",
+    "Application.TriangleTypes.executor": "Run",
     "RunOnceActivity.CodyProjectSettingsMigration": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,7 +63,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TriangleTypes">
     <configuration name="BankNotesAndCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week01.BankNotesAndCoins" />
       <module name="neobis-freshman" />
@@ -77,8 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangleTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week01.TriangleTypes" />
+      <module name="neobis-freshman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TriangleTypes" />
         <item itemvalue="Application.BankNotesAndCoins" />
       </list>
     </recent_temporary>
@@ -98,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703407231029</updated>
-      <workItem from="1703407232063" duration="6969000" />
+      <workItem from="1703407232063" duration="11556000" />
     </task>
     <task id="LOCAL-00001" summary="completed first task">
       <option name="closed" value="true" />
@@ -108,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703411818027</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="completed the second task">
+      <option name="closed" value="true" />
+      <created>1703419234118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703419234118</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,17 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed first task" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed first task" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/week01/BankNotesAndCoins.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="completed the second task" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed the second task" />
   </component>
 </project>
