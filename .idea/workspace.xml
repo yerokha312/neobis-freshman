@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2ca60c1-38a1-47eb-94e5-247699a37e8e" name="Changes" comment="solved task #4">
-      <change afterPath="$PROJECT_DIR$/src/week01/GameTimeWithMinutes.java" afterDir="false" />
+    <list default="true" id="a2ca60c1-38a1-47eb-94e5-247699a37e8e" name="Changes" comment="solved task #5">
+      <change afterPath="$PROJECT_DIR$/src/week01/WeightedAverages.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703407231029</updated>
       <workItem from="1703407232063" duration="15099000" />
-      <workItem from="1703476407155" duration="7301000" />
+      <workItem from="1703476407155" duration="9178000" />
     </task>
     <task id="LOCAL-00001" summary="completed first task">
       <option name="closed" value="true" />
@@ -162,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703428481942</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="solved task #5">
+      <option name="closed" value="true" />
+      <created>1703483736507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703483736507</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +204,7 @@
     <MESSAGE value="completed the second task" />
     <MESSAGE value="completed the third task" />
     <MESSAGE value="solved task #4" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved task #4" />
+    <MESSAGE value="solved task #5" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved task #5" />
   </component>
 </project>
