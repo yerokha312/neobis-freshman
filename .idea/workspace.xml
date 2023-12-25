@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2ca60c1-38a1-47eb-94e5-247699a37e8e" name="Changes" comment="solved task #9">
-      <change afterPath="$PROJECT_DIR$/src/week01/PopulationIncrease.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a2ca60c1-38a1-47eb-94e5-247699a37e8e" name="Changes" comment="solved task #10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +157,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703407231029</updated>
       <workItem from="1703407232063" duration="15099000" />
-      <workItem from="1703476407155" duration="19828000" />
+      <workItem from="1703476407155" duration="20212000" />
     </task>
     <task id="LOCAL-00001" summary="completed first task">
       <option name="closed" value="true" />
@@ -234,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703494052478</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="solved task #10">
+      <option name="closed" value="true" />
+      <created>1703496494158</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703496494158</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +256,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -273,6 +278,7 @@
     <MESSAGE value="solved task #7" />
     <MESSAGE value="solved task #8" />
     <MESSAGE value="solved task #9" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved task #9" />
+    <MESSAGE value="solved task #10" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved task #10" />
   </component>
 </project>
