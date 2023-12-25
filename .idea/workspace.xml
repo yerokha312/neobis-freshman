@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2ca60c1-38a1-47eb-94e5-247699a37e8e" name="Changes" comment="solved task #5">
-      <change afterPath="$PROJECT_DIR$/src/week01/WeightedAverages.java" afterDir="false" />
+    <list default="true" id="a2ca60c1-38a1-47eb-94e5-247699a37e8e" name="Changes" comment="solved task #6">
+      <change afterPath="$PROJECT_DIR$/src/week01/SequenceIJ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     "Application.BankNotesAndCoins.executor": "Run",
     "Application.Banknotes.executor": "Run",
     "Application.GameTimeWithMinutes.executor": "Run",
+    "Application.SequenceIJ.executor": "Run",
     "Application.TriangleTypes.executor": "Run",
     "RunOnceActivity.CodyProjectSettingsMigration": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -64,7 +65,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GameTimeWithMinutes">
+  <component name="RunManager" selected="Application.SequenceIJ">
     <configuration name="BankNotesAndCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week01.BankNotesAndCoins" />
       <module name="neobis-freshman" />
@@ -91,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SequenceIJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week01.SequenceIJ" />
+      <module name="neobis-freshman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TriangleTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week01.TriangleTypes" />
       <module name="neobis-freshman" />
@@ -106,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SequenceIJ" />
         <item itemvalue="Application.GameTimeWithMinutes" />
         <item itemvalue="Application.TriangleTypes" />
         <item itemvalue="Application.BankNotesAndCoins" />
@@ -128,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703407231029</updated>
       <workItem from="1703407232063" duration="15099000" />
-      <workItem from="1703476407155" duration="9178000" />
+      <workItem from="1703476407155" duration="12130000" />
     </task>
     <task id="LOCAL-00001" summary="completed first task">
       <option name="closed" value="true" />
@@ -170,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703483736507</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="solved task #6">
+      <option name="closed" value="true" />
+      <created>1703485915321</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703485915321</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +228,7 @@
     <MESSAGE value="completed the third task" />
     <MESSAGE value="solved task #4" />
     <MESSAGE value="solved task #5" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved task #5" />
+    <MESSAGE value="solved task #6" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved task #6" />
   </component>
 </project>
