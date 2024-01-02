@@ -13,7 +13,7 @@ public class Greeting {
 }
 ```
 
- 'Yerbolat is the best programmer'
+ 
 
 ## Study plan
 ### Week01
